@@ -1,3 +1,4 @@
+ [![Run on Repl.it](https://repl.it/badge/github/cursorweb/PythonPlantsVsZombies)](https://repl.it/github/cursorweb/PythonPlantsVsZombies)
 # PythonPlantsVsZombies
 a simple PlantsVsZombies game. 
 It's just for learning and noncommercial use. If this game infringes the copyright, please let me know.
